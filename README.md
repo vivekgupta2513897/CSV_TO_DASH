@@ -1,6 +1,7 @@
-**🌟 Dashboarding Agent with Autogen
-**********
-******Overview******
+ ****Dashboarding Agent with Autogen****
+
+**Overview**
+
 This repository contains the implementation of a Dashboarding Agent using Autogen, designed to process user queries and dynamically generate data-driven dashboards. The system leverages multi-agent collaboration to interpret queries, retrieve relevant datasets, and visualize insights using interactive graphs
 
 ****Features**
