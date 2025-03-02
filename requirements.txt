@@ -1,0 +1,7 @@
+openai
+autogen
+pandas
+plotly
+panel
+JSON
+GOOGLE COLAB
